@@ -1,0 +1,10 @@
+openai==2.8.1
+numpy
+pandas
+azure-identity
+azure-search-documents
+python-dotenv
+pillow
+azure-ai-evaluation
+ipykernel
+rich
